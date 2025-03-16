@@ -47,13 +47,6 @@ A modern, fully responsive, and stylish landing page for a coffee shop. Built wi
 - 📍 Integrate Google Maps for location display.
 - 💌 Add a newsletter subscription feature.
 
-## 👨‍💻 Author
-
-- **Your Name** – [GitHub](https://github.com/noushyn)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
