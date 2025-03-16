@@ -4,7 +4,7 @@
 
 🔗 [Live Demo](https://noushyn.github.io/CoffeeShop/)
 
-🔗 [GitHub Repository](https://github.com/noushyn/coffee-shop)
+🔗 [GitHub Repository](https://github.com/Noushyn/CoffeeShop/)
 
 A modern, fully responsive, and stylish landing page for a coffee shop. Built with **Tailwind CSS**, featuring **Dark Mode**, and enhanced with **Swiper.js** for smooth carousels. Icons are powered by **Heroicons** to maintain a sleek and elegant look.
 
