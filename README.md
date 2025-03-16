@@ -2,7 +2,7 @@
 
 ## 🌍 Live Demo & GitHub
 
-🔗 [Live Demo]((https://noushyn.github.io/CoffeeShop/))
+🔗 [Live Demo](https://noushyn.github.io/CoffeeShop/)
 
 🔗 [GitHub Repository](https://github.com/noushyn/coffee-shop)
 
