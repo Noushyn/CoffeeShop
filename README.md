@@ -37,7 +37,7 @@ A modern, fully responsive, and stylish landing page for a coffee shop. Built wi
    ```
 3. Run the project:
    ```sh
-   npm run dev
+   npm run build
    ```
 4. Open `index.html` in your browser if running without a development server.
 
